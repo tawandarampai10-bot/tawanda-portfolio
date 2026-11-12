@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tawandarampai10-bot.github.io/tawanda-portfolio/sitemap.xml
